@@ -1,16 +1,26 @@
-## Hi there 👋
+# Maxime Jolliot
 
-<!--
-**MaximeJLT/maximeJLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data & Simulation Engineer in training | ISAE-ENSMA  
+📊 Specializing in uncertainty quantification, modeling, and scientific computing.  
+🛰️ Interested in quantitative finance & space technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python · C++ · MATLAB
+- Monte Carlo · Optimization · Numerical Simulation
+- Data Analysis · Scientific Modeling
+
+---
+
+### 📂 Featured Projects
+- 🔬 [Ising Model Simulation](https://github.com/your-repo)
+- 🧬 [Freely Jointed Polymer Chain](https://github.com/your-repo)
+- 🌌 [Graphene Cohesion Energy](https://github.com/your-repo)
+
+---
+
+### 🌍 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/maximejolliot)
+- 📧 maxime.jolliot@email.com
+- 📁 [CV / Portfolio](https://link-to-portfolio.com)
