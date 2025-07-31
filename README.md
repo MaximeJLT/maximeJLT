@@ -3,11 +3,17 @@ Hi,
 I'm Maxime, a French engineering student at ISAE-ENSMA, specializing in data, simulation, and uncertainty quantification.
 
 🔬 I’m passionate about building mathematical models and running simulations to better understand complex systems.
+
 📉 From physical processes to financial dynamics, I enjoy working where uncertainty meets engineering.
+
 🧠 I’m currently sharpening my skills in C++ and Python through personal projects in Monte Carlo methods, physics, and numerical optimization.
+
 🧪 I recently completed a research internship on quantum control theory, applying GRAPE algorithms to simulate and optimize qubit dynamics.
-🌐 I’m open to freelance consulting, technical collaborations, or international internships for 2026.
+
+🌐 I’m open to technical collaborations, or international internships for 2026.
+
 📫 Reach me at: maxime.jolliot@gmail.com
+
 Check out my portfolio: https://maximejlt.github.io (WIP)
 
 Tech Stack :
