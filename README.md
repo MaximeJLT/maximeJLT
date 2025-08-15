@@ -26,3 +26,5 @@ Tech Stack :
 Social :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/maximejolliot/](https://www.linkedin.com/in/maxime-jolliot-🚀-1a3183342/))
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximeJLT&show_icons=true&locale=en)
