@@ -4,7 +4,7 @@
   <p><i>Engineering student at ISAE-ENSMA. Building the software architecture that allows autonomous systems to perceive, reason, and act in the physical world.</i></p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/maxime-jolliot-%F0%9F%9A%80-1a3183342/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://[www.linkedin.com/in/maxime-jolliot-%F0%9F%9A%80-1a3183342](https://www.linkedin.com/in/maxime-jolliot-1a3183342/?skipRedirect=true)/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:maxime.jolliot@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://maximejlt.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
   </p>
