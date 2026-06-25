@@ -53,7 +53,6 @@ My engineering approach bridges **theoretical rigor** and **rugged, real-world d
 </p>
 
 ---
+### 🧬 Background
 
-### 🧬 About My Path
-
-My path is non-linear. Moving from a vocational business track to graduating **top of my class in physics (1/23)** forced me to rebuild my mathematical foundation from scratch. That journey instilled a first-principles mindset: I don't just call high-level libraries — I want to understand the optimization constraints, the failure modes, and the systems underneath.
+Non-linear path: from a vocational track to top of my physics class (1/23), rebuilding my math foundation from scratch. The result is a first-principles mindset — I care about the optimization constraints, the failure modes, and the systems under the libraries, not just the high-level API.
